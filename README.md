@@ -40,7 +40,7 @@ For details, see the [Developers site](https://developer.trustwallet.com):
 
 - [FAQ](https://developer.trustwallet.com/assets/faq)
 
-## Scripts
+## 
 
 There are several scripts available for maintainers:
 
